@@ -1,2 +1,2 @@
-# 3d-parallax-webpage
+# 3d-parallax-web
 
